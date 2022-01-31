@@ -5,8 +5,8 @@ Stage 2, Semester 2
 Class Exercises
 
 Student Name:             Mateus Fonseca Campos
-Student Number:		        24088
-Student Email:		        24088@student.dorset-college.ie
+Student Number:           24088
+Student Email:            24088@student.dorset-college.ie
 */
 
 ﻿using System;
