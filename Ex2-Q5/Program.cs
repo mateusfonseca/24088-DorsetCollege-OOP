@@ -36,7 +36,7 @@ namespace Ex2_Q5
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("\nALL GOOD! YOUR HOURLY PAY RATE HAS BEEN SUCCESSFULLY VERIFIED!");
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("Your hourly pay rate is greater than $7.50 and less than $49.00! Nothing to worry about.\n");
+                Console.WriteLine("Your hourly pay rate is greater than $7.50 and less than $49.00! Nothing to worry about.");
                 loop = false;
               }
             } catch (System.FormatException) {
@@ -46,6 +46,9 @@ namespace Ex2_Q5
           } while (loop);
 
           Console.WriteLine("\n======== Dorset College Hourly Pay Rate Verifier ========");
+
+          Console.Write("\nPress any key to end... ");
+          Console.ReadLine();
         }
     }
 }

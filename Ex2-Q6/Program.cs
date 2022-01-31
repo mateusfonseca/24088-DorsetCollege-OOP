@@ -67,6 +67,9 @@ namespace Ex2_Q6
           Console.WriteLine("{0,13:N2} {1,13:N2} {2,13:N2} {3,17:N2} {4,25:N2}", length, width, area, fee, fee*20);
 
           Console.WriteLine("\n======================= Dorset College Lawn-Mowing Fee Calculator =======================");
+
+          Console.Write("\nPress any key to end... ");
+          Console.ReadLine();
         }
     }
 }

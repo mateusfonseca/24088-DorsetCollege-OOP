@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Ex1-Q2/Ex1-Q2.csproj",
+      "projectUniqueName": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/Ex1-Q2.csproj",
       "projectName": "Ex1-Q2",
-      "projectPath": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Ex1-Q2/Ex1-Q2.csproj",
+      "projectPath": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/Ex1-Q2.csproj",
       "packagesPath": "/home/mateuscampos/.nuget/packages/",
-      "outputPath": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Ex1-Q2/obj/",
+      "outputPath": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mateuscampos/.nuget/NuGet/NuGet.Config"

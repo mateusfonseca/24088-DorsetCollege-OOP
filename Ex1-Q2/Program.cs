@@ -79,6 +79,9 @@ namespace Ex1_Q2
           Console.WriteLine("{0,13:N2} {1,13:N2} {2,13:N2} {3,13:N2}", length, width, length*width, length*width*euroPerSquareFoot);
 
           Console.WriteLine("\n======== Dorset College Carpeting Price Calculator ========");
+
+          Console.Write("\nPress any key to end... ");
+          Console.ReadLine();
         }
     }
 }

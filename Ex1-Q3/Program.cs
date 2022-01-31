@@ -49,6 +49,9 @@ namespace Ex1_Q3
           // Console.WriteLine("{0,13:N2} {1,13} {2,13}", minutes, ">>>", time.ToString("HH:mm"));
 
           Console.WriteLine("\n======== Dorset College Minutes-to-HH:MM Converter ========");
+
+          Console.Write("\nPress any key to end... ");
+          Console.ReadLine();
         }
     }
 }

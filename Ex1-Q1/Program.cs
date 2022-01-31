@@ -58,6 +58,9 @@ namespace Ex1_Q1
           }
 
           Console.WriteLine("\n======== Dorset College Basic Calculator ========");
+
+          Console.Write("\nPress any key to end... ");
+          Console.ReadLine();
         }
     }
 }

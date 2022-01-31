@@ -70,6 +70,9 @@ namespace Ex2_Q7
           Console.WriteLine("\nThanks for playing. Bye!");
 
           Console.WriteLine("\n=========== Dorset College Random Number Guessing Game ===========");
+
+          Console.Write("\nPress any key to end... ");
+          Console.ReadLine();
         }
     }
 }

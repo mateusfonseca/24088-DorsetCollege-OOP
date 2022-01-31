@@ -14,3 +14,19 @@
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Ex1-Q2/obj/Debug/net5.0/ref/Ex1-Q2.dll
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.pdb
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.genruntimeconfig.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/Ex1-Q2
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/Ex1-Q2.deps.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/Ex1-Q2.runtimeconfig.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/Ex1-Q2.runtimeconfig.dev.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/Ex1-Q2.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/ref/Ex1-Q2.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/bin/Debug/net5.0/Ex1-Q2.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.csproj.AssemblyReference.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.AssemblyInfoInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.AssemblyInfo.cs
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.csproj.CoreCompileInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/ref/Ex1-Q2.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex1-Q2/obj/Debug/net5.0/Ex1-Q2.genruntimeconfig.cache
