@@ -38,7 +38,7 @@ namespace Ex1_Q3
           } while (loop);
 
           int hh = (int)minutes/60;
-          int mm = (int)minutes-(hh*60);
+          int mm = (int)minutes%60;
           // alternative with DateTime can only display hours from 0 to 24
           // DateTime time = new(1,1,1,hh,mm,0);
 
