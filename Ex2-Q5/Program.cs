@@ -30,13 +30,13 @@ namespace Ex2_Q5
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\nERROR! WRONG HOURLY PAY RATE INSERTED!");
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("Your hourly pay rate has to be greater than $7.50 and less than $49.00! Please, try again.\n");
+                Console.WriteLine("Your hourly pay rate has to be between $7.50 and $49.00, inclusive! Please, try again.\n");
                 loop = true;
               } else {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("\nALL GOOD! YOUR HOURLY PAY RATE HAS BEEN SUCCESSFULLY VERIFIED!");
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("Your hourly pay rate is greater than $7.50 and less than $49.00! Nothing to worry about.");
+                Console.WriteLine("Your hourly pay rate is between $7.50 and $49.00! Nothing to worry about.");
                 loop = false;
               }
             } catch (System.FormatException) {
