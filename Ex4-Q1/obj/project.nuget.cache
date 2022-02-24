@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4MuD3YSOZ1pb/14GU658NrCZJP7RCAyYRD1W8q1xbq1luHsGOFzTkkaTbYvXCGo003FX2ZLbV/KWiGOhW9QDbA==",
+  "dgSpecHash": "xOflwtUNLNVFjiMfm6/HsUyHifev9+7lj1yiRdL+ClQWd8FoiVkxweKgeWfdEkNHbzLUsXTxc/zhfPZ6UE6uPg==",
   "success": true,
   "projectFilePath": "/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/Ex4-Q1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mateuscampos/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.14/microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

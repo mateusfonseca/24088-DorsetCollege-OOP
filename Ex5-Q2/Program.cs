@@ -25,7 +25,7 @@ namespace Ex5_Q2
           do {
             Console.Write("\nEnter an integer: ");
             try {
-                num = int.Parse(Console.ReadLine());
+                num = int.Parse(Console.ReadLine()!);
                 loop = false;
             } catch (System.FormatException) {
                 Console.WriteLine("\nThe input has to be an integer! Please, try again.");

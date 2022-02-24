@@ -1,13 +1,27 @@
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\bin\Debug\netcoreapp3.1\Ex5-Q1.exe
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\bin\Debug\netcoreapp3.1\Ex5-Q1.deps.json
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\bin\Debug\netcoreapp3.1\Ex5-Q1.runtimeconfig.json
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\bin\Debug\netcoreapp3.1\Ex5-Q1.runtimeconfig.dev.json
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\bin\Debug\netcoreapp3.1\Ex5-Q1.dll
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\bin\Debug\netcoreapp3.1\Ex5-Q1.pdb
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.csprojAssemblyReference.cache
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.AssemblyInfoInputs.cache
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.AssemblyInfo.cs
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.csproj.CoreCompileInputs.cache
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.dll
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.pdb
-C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex5-Q1\obj\Debug\netcoreapp3.1\Ex5-Q1.genruntimeconfig.cache
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.exe
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.deps.json
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.runtimeconfig.json
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.runtimeconfig.dev.json
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.dll
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.pdb
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.csprojAssemblyReference.cache
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.AssemblyInfoInputs.cache
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.AssemblyInfo.cs
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.csproj.CoreCompileInputs.cache
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.dll
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.pdb
+C:/Users/24088/Downloads/Object-Oriented Programming/24088-DorsetCollege-OOP-master/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.genruntimeconfig.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.deps.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.runtimeconfig.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.runtimeconfig.dev.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/bin/Debug/netcoreapp3.1/Ex5-Q1.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.csproj.AssemblyReference.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.AssemblyInfoInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.AssemblyInfo.cs
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.csproj.CoreCompileInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex5-Q1/obj/Debug/netcoreapp3.1/Ex5-Q1.genruntimeconfig.cache

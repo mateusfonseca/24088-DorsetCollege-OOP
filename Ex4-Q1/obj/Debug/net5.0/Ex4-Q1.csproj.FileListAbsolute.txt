@@ -8,9 +8,9 @@
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/bin/Debug/net5.0/Ex4-Q1.runtimeconfig.json
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/bin/Debug/net5.0/Ex4-Q1.runtimeconfig.dev.json
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/bin/Debug/net5.0/Ex4-Q1.dll
-/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/bin/Debug/net5.0/ref/Ex4-Q1.dll
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/bin/Debug/net5.0/Ex4-Q1.pdb
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/obj/Debug/net5.0/Ex4-Q1.dll
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/obj/Debug/net5.0/ref/Ex4-Q1.dll
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/obj/Debug/net5.0/Ex4-Q1.pdb
 /home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/obj/Debug/net5.0/Ex4-Q1.genruntimeconfig.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 2/OOP/Class Exercises/24088-DorsetCollege-OOP/Ex4-Q1/obj/Debug/net5.0/refint/Ex4-Q1.dll
