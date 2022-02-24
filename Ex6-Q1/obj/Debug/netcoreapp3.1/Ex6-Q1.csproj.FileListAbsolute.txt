@@ -1,0 +1,13 @@
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.csprojAssemblyReference.cache
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.AssemblyInfoInputs.cache
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.AssemblyInfo.cs
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.csproj.CoreCompileInputs.cache
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\bin\Debug\netcoreapp3.1\Ex6-Q1.exe
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\bin\Debug\netcoreapp3.1\Ex6-Q1.deps.json
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\bin\Debug\netcoreapp3.1\Ex6-Q1.runtimeconfig.json
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\bin\Debug\netcoreapp3.1\Ex6-Q1.runtimeconfig.dev.json
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\bin\Debug\netcoreapp3.1\Ex6-Q1.dll
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\bin\Debug\netcoreapp3.1\Ex6-Q1.pdb
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.dll
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.pdb
+C:\Users\24088\Downloads\Object-Oriented Programming\24088-DorsetCollege-OOP-master\Ex6-Q1\obj\Debug\netcoreapp3.1\Ex6-Q1.genruntimeconfig.cache
