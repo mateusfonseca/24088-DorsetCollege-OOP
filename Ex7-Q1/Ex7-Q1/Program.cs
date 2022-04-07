@@ -1,4 +1,15 @@
-﻿DETAILS details = new("Suresh", "Hyderabad", 32);
+﻿/*
+BSc in Science in Computing & Multimedia
+Object-Oriented Programming - BSC20921
+Stage 2, Semester 2
+Class Exercises
+
+Student Name:             Mateus Fonseca Campos
+Student Number:           24088
+Student Email:            24088@student.dorset-college.ie
+*/
+
+DETAILS details = new("Suresh", "Hyderabad", 32);
 Console.WriteLine(details.ToString());
 Console.Write("\nPress Any Key to Exit... ");
 Console.ReadKey();
